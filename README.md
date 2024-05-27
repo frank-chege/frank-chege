@@ -2,10 +2,10 @@
 
 ## My GitHub Stats 📊
 
-![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api)
+![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankrazzih)
 
 
 ## Most Used Languages 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=frankrazzih)
 
