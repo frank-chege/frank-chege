@@ -7,5 +7,6 @@
 
 ## Most Used Languages 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=frankrazzih)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankrazzih&layout=compact)
+
 
